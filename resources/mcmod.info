@@ -1,0 +1,16 @@
+[
+{
+  "modid": "notenoughores",
+  "name": "NotEnoughOres",
+  "description": "Adds 7 new ores into the game. Supports 1.7.2, 1.7.10",
+  "version": "1.0.0",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["ShareYourSkins"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
